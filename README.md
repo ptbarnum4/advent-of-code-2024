@@ -1,6 +1,6 @@
 <p align='center'>
   <a href='https://adventofcode.com' target='_blank'>
-    <img src='assets/advent-of-code-2023.png' width='400px'/>
+    <img src='assets/advent-of-code-2023.png' width='600px'/>
   </a>
 </p>
 
