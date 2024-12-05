@@ -34,7 +34,7 @@
 
 <p align='center'>
   <a href='day04/README.md'>
-    <img width='50px' height='auto' src='assets/badges/incomplete/day4.svg'/>
+    <img width='50px' height='auto' src='assets/badges/complete/day4.svg'/>
   </a>
   <a href='day05/README.md'>
     <img width='50px' height='auto' src='assets/badges/incomplete/day5.svg'/>
