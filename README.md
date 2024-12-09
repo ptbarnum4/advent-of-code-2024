@@ -1,6 +1,8 @@
+<h1 align='center' id='advent-of-code-2024'>Advent of Code 2024</h1>
+
 <p align='center'>
   <a href='https://adventofcode.com' target='_blank'>
-    <img src='assets/advent-of-code-2023.png' width='600px'/>
+    <img src='assets/advent-of-code-2024.png' width='600px'/>
   </a>
 </p>
 
@@ -9,13 +11,13 @@
 </p>
 
 <p align='center'>
-  <a href='https://github.com/ptbarnum4/advent-of-code-2023' target='_blank'>
+  <a href='https://github.com/ptbarnum4/advent-of-code-2024#advent-of-code-2024' target='_blank'>
     <img width='70px' height='auto' src='assets/badges/github.svg'/>
   </a>
 </p>
 
 <p align='center'>
-  <a href='https://adventofcode.com/2023/leaderboard/private/view/808675' target='_blank'>
+  <a href='https://adventofcode.com/2024/leaderboard/private/view/808675' target='_blank'>
     <img width='100px' height='auto' src='assets/badges/scoreboard.svg'/>
   </a>
 </p>
